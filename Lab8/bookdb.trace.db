@@ -1,0 +1,548 @@
+2026-03-03 10:56:18.866745+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-03 11:04:20.532139+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-03 11:04:20.547855+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-03 11:04:20.547855+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-03 11:06:42.709121+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-03 11:06:42.715064+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-03 11:06:42.744750+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:01:22.804737+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:01:22.812362+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:01:22.813334+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:01:22.817326+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:01:22.818326+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:01:22.878167+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:01:22.933378+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:11:34.206775+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:11:34.212491+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:11:34.212491+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:11:34.212491+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:11:34.212491+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:11:34.283288+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:11:34.342121+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:15:09.940580+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:15:09.954133+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:15:09.956260+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:15:09.961144+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:15:09.961144+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:15:10.066559+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:15:10.169298+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:20:03.218854+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:20:03.224887+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:20:03.225856+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:20:03.230142+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:20:03.231140+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:20:03.292315+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-10 16:20:03.346333+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 09:54:11.547988+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 09:54:11.555993+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 09:54:11.557988+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 09:54:11.563792+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 09:54:11.564797+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 09:54:11.628269+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 09:54:11.688284+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:05:07.481431+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id)) [42001-224]
+2026-03-24 10:05:07.503351+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references [*]order"; expected "identifier"; SQL statement:
+alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references order [42001-224]
+2026-03-24 10:07:05.025953+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into [*]order (customer_name,total_amount,id) values (?,?,default)"; expected "identifier"; SQL statement:
+insert into order (customer_name,total_amount,id) values (?,?,default) [42001-224]
+2026-03-24 10:13:12.586373+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id)) [42001-224]
+2026-03-24 10:13:12.605072+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references [*]order"; expected "identifier"; SQL statement:
+alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references order [42001-224]
+2026-03-24 10:13:51.698237+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id)) [42001-224]
+2026-03-24 10:13:51.717010+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references [*]order"; expected "identifier"; SQL statement:
+alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references order [42001-224]
+2026-03-24 10:13:54.709054+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.715055+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.716078+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.717055+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.718406+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.719419+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.720417+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.722433+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.722433+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.725423+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.726418+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.728416+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.729489+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.730499+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.732609+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.734608+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.735608+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.736607+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.738608+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.739608+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.751759+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.753760+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.819882+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:13:54.878655+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:15:05.918148+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:15:37.159003+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into [*]order (customer_name,total_amount,id) values (?,?,default)"; expected "identifier"; SQL statement:
+insert into order (customer_name,total_amount,id) values (?,?,default) [42001-224]
+2026-03-24 10:17:57.265906+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into [*]order (customer_name,total_amount,id) values (?,?,default)"; expected "identifier"; SQL statement:
+insert into order (customer_name,total_amount,id) values (?,?,default) [42001-224]
+2026-03-24 10:21:41.426741+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into [*]order (customer_name,total_amount,id) values (?,?,default)"; expected "identifier"; SQL statement:
+insert into order (customer_name,total_amount,id) values (?,?,default) [42001-224]
+2026-03-24 10:22:22.852820+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into [*]order (customer_name,total_amount,id) values (?,?,default)"; expected "identifier"; SQL statement:
+insert into order (customer_name,total_amount,id) values (?,?,default) [42001-224]
+2026-03-24 10:29:05.911754+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into [*]order (customer_name,total_amount,id) values (?,?,default)"; expected "identifier"; SQL statement:
+insert into order (customer_name,total_amount,id) values (?,?,default) [42001-224]
+2026-03-24 10:36:04.355989+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id)) [42001-224]
+2026-03-24 10:36:04.381227+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references [*]order"; expected "identifier"; SQL statement:
+alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references order [42001-224]
+2026-03-24 10:36:06.959390+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:06.967887+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:06.968891+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:06.970886+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:06.971886+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:06.973920+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:06.974919+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:06.975919+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:06.976929+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:06.977919+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:06.978919+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:06.980920+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:06.981928+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:06.982920+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:06.984920+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:06.986920+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:06.987920+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:06.988920+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:06.990922+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:06.991944+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:07.000084+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:07.002085+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:07.067910+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:36:07.125036+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:21.101570+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id)) [42001-224]
+2026-03-24 10:41:21.118173+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references [*]order"; expected "identifier"; SQL statement:
+alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references order [42001-224]
+2026-03-24 10:41:33.327589+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id)) [42001-224]
+2026-03-24 10:41:33.350335+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references [*]order"; expected "identifier"; SQL statement:
+alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references order [42001-224]
+2026-03-24 10:41:35.867672+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:35.880913+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:35.883541+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:35.883541+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:35.883541+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:35.883541+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:35.883541+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:35.883541+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:35.883541+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:35.883541+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:35.883541+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:35.883541+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:35.883541+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:35.883541+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:35.883541+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:35.883541+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:35.883541+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:35.883541+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:35.883541+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:35.899325+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:35.899325+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:35.899325+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:35.980168+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:41:36.028001+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:42:07.488414+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into [*]order (customer_name,total_amount,id) values (?,?,default)"; expected "identifier"; SQL statement:
+insert into order (customer_name,total_amount,id) values (?,?,default) [42001-224]
+2026-03-24 10:42:10.382907+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into [*]order (customer_name,total_amount,id) values (?,?,default)"; expected "identifier"; SQL statement:
+insert into order (customer_name,total_amount,id) values (?,?,default) [42001-224]
+2026-03-24 10:42:14.328496+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into [*]order (customer_name,total_amount,id) values (?,?,default)"; expected "identifier"; SQL statement:
+insert into order (customer_name,total_amount,id) values (?,?,default) [42001-224]
+2026-03-24 10:42:24.888721+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into [*]order (customer_name,total_amount,id) values (?,?,default)"; expected "identifier"; SQL statement:
+insert into order (customer_name,total_amount,id) values (?,?,default) [42001-224]
+2026-03-24 10:44:00.473836+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id)) [42001-224]
+2026-03-24 10:44:00.486839+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references [*]order"; expected "identifier"; SQL statement:
+alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references order [42001-224]
+2026-03-24 10:44:17.878682+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id)) [42001-224]
+2026-03-24 10:44:17.901675+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references [*]order"; expected "identifier"; SQL statement:
+alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references order [42001-224]
+2026-03-24 10:44:20.289953+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.296953+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.297966+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.299955+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.300952+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.302954+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.303953+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.304953+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.305954+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.307953+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.308952+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.310335+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.311384+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.312408+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.313430+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.314430+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.316434+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.316434+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.318431+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.319359+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.328150+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.329145+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.394892+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:44:20.454340+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:45:02.403448+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into [*]order (customer_name,total_amount,id) values (?,?,default)"; expected "identifier"; SQL statement:
+insert into order (customer_name,total_amount,id) values (?,?,default) [42001-224]
+2026-03-24 10:47:04.750496+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id)) [42001-224]
+2026-03-24 10:47:04.771154+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references [*]order"; expected "identifier"; SQL statement:
+alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references order [42001-224]
+2026-03-24 10:47:07.595652+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.601669+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.602651+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.605142+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.606138+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.607137+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.608136+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.610142+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.611147+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.612137+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.614143+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.616138+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.616138+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.618139+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.619138+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.621136+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.622136+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.624141+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.625136+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.627140+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.649140+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.653139+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.785944+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:07.850928+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:47:27.223080+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into [*]order (customer_name,total_amount,id) values (?,?,default)"; expected "identifier"; SQL statement:
+insert into order (customer_name,total_amount,id) values (?,?,default) [42001-224]
+2026-03-24 10:47:30.548389+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into [*]order (customer_name,total_amount,id) values (?,?,default)"; expected "identifier"; SQL statement:
+insert into order (customer_name,total_amount,id) values (?,?,default) [42001-224]
+2026-03-24 10:49:16.523055+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id)) [42001-224]
+2026-03-24 10:49:16.545237+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references [*]order"; expected "identifier"; SQL statement:
+alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references order [42001-224]
+2026-03-24 10:49:19.721094+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.727096+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.728092+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.730093+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.731098+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.733097+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.734094+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.735093+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.736093+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.738100+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.739094+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.740096+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.741137+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.742121+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.744317+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.744317+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.745325+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.746327+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.747329+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.748322+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.755326+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.756348+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.823985+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:19.883021+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 10:49:46.061047+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into [*]order (customer_name,total_amount,id) values (?,?,default)"; expected "identifier"; SQL statement:
+insert into order (customer_name,total_amount,id) values (?,?,default) [42001-224]
+2026-03-24 10:53:22.713339+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id)) [42001-224]
+2026-03-24 10:53:22.793361+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references [*]order"; expected "identifier"; SQL statement:
+alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references order [42001-224]
+2026-03-24 10:54:24.286612+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id)) [42001-224]
+2026-03-24 10:54:24.351056+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references [*]order"; expected "identifier"; SQL statement:
+alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references order [42001-224]
+2026-03-24 10:56:05.663735+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into [*]order (customer_name,total_amount,id) values (?,?,default)"; expected "identifier"; SQL statement:
+insert into order (customer_name,total_amount,id) values (?,?,default) [42001-224]
+2026-03-24 10:56:18.874106+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into [*]order (customer_name,total_amount,id) values (?,?,default)"; expected "identifier"; SQL statement:
+insert into order (customer_name,total_amount,id) values (?,?,default) [42001-224]
+2026-03-24 11:00:33.683524+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint generated by default as identity, customer_name varchar(255), total_amount float(53), primary key (id)) [42001-224]
+2026-03-24 11:00:33.747969+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references [*]order"; expected "identifier"; SQL statement:
+alter table if exists order_detail add constraint FKplam7wxc4tjbgex0xyk8f0qxo foreign key (order_id) references order [42001-224]
+2026-03-24 11:00:41.894141+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:41.926139+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:41.926139+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:41.941982+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:41.941982+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:41.941982+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:41.941982+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:41.959197+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:41.961082+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:41.966283+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:41.968729+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:41.974361+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:41.974361+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:41.974361+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:41.982829+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:41.982829+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:41.982829+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:41.998873+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:42.003894+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:42.003894+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:42.023779+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:42.032451+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:42.232809+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2026-03-24 11:00:42.420891+07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
